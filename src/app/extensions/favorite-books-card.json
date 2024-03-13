@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Favorite Books Card",
+    "uid": "favorite_books_card",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "card-frontend.jsx"
+    },
+    "objectTypes": [{ "name": "contacts" }]
+  }
+}

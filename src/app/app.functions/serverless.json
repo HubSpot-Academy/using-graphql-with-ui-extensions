@@ -1,0 +1,8 @@
+{
+  "appFunctions": {
+    "fetchAssociatedBooks": {
+      "file": "fetchAssociatedBooks.js",
+      "secrets": []
+    }
+  }
+}
